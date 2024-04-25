@@ -43,3 +43,4 @@ for val in num_values_list:
     new_val = val / max_val
     new_values.append(new_val)
     print(f'{new_val:.2f}')
+
