@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7073ca34-f50b-4d82-baa9-40539608df84" name="Changes" comment="password modifier - finished">
-      <change afterPath="$PROJECT_DIR$/BruteForceEquationSolver.py" afterDir="false" />
+    <list default="true" id="7073ca34-f50b-4d82-baa9-40539608df84" name="Changes" comment="brute force finished">
+      <change afterPath="$PROJECT_DIR$/AdjustValuesNormalizing.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +46,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.AdjustValuesNormalizing.executor": "Run",
     "Python.BruteForceEquationSolver.executor": "Run",
     "Python.Dice statistics.executor": "Run",
     "Python.PasswordModifier.executor": "Run",
@@ -80,7 +81,7 @@
       <updated>1713902846163</updated>
       <workItem from="1713902847503" duration="5318000" />
       <workItem from="1714011920933" duration="1997000" />
-      <workItem from="1714054600160" duration="1687000" />
+      <workItem from="1714054600160" duration="4230000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter 6 practice problems">
       <option name="closed" value="true" />
@@ -114,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714013443665</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="brute force finished">
+      <option name="closed" value="true" />
+      <created>1714056308530</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714056308530</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,12 +132,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Chapter 6 practice problems" />
     <MESSAGE value="password modifier - finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="password modifier - finished" />
+    <MESSAGE value="brute force finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="brute force finished" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Chapter6$Phone_Number_Program.coverage" NAME="Phone Number Program Coverage Results" MODIFIED="1713903254046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Chapter6$PasswordModifier.coverage" NAME="PasswordModifier Coverage Results" MODIFIED="1714013274265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Chapter6$toBinaryReverse.coverage" NAME="toBinaryReverse Coverage Results" MODIFIED="1714012605210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Chapter6$AdjustValuesNormalizing.coverage" NAME="AdjustValuesNormalizing Coverage Results" MODIFIED="1714063690715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Chapter6$BruteForceEquationSolver.coverage" NAME="BruteForceEquationSolver Coverage Results" MODIFIED="1714056214481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Chapter6$Dice_statistics.coverage" NAME="Dice statistics Coverage Results" MODIFIED="1713915394346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
